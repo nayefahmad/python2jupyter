@@ -266,3 +266,8 @@ Now we handle the exceptions to the above-mentioned rules.
 ## Feedback and pull requests
 
 If you do like this, star me maybe? Pull requests are very much encouraged!
+
+
+
+# Notes 
+- Don't use multi-line comments at the start of .py files (i.e. using triple double quotes). That will break the parser. 
